@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@grpc/grpc-js": "^1.5.9",
+    "@grpc/proto-loader": "^0.6.9",
+    "google-protobuf": "^3.20.0-rc.2",
+    "grpc": "^1.24.11"
+  },
+  "scripts": {
+    "start:ms":"node ms.js"
+  }
+}
